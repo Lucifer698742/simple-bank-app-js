@@ -6,13 +6,13 @@ The Bank Transaction Website offers the following features:
 
 Account Registration: Users can create a new account by providing their personal information and setting a secure password.
 
-Login: Registered users can log in to their accounts using their credentials.
+Login:- Registered users can log in to their accounts using their credentials.
 
-Account Summary: Once logged in, users can view their account balance, transaction history, and other account details.
+Account Summary:- Once logged in, users can view their account balance, transaction history, and other account details.
 
-Fund Transfer: Users can transfer funds from their account to another account within the same bank.
+Fund Transfer:- Users can transfer funds from their account to another account within the same bank.
 
-Transaction History: Users can view a detailed history of their transactions, including dates, transaction types, and amounts.
+Transaction History:- Users can view a detailed history of their transactions, including dates, transaction types, and amounts.
 
 Security: The website ensures the security of user data and transactions through encryption and authentication mechanisms.
 
